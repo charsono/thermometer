@@ -1,2 +1,2 @@
-# thermometer
+# Thermometer Project
 This repository contains the code that implements a thermometer that can read temperature from external source. The thermometer could read and output temperature in Celcius and Fahrenheit, and user is able to define arbitrary thresholds that would be triggered when a certain temperature is reached. The thresholds could be set to only be triggered when the temperature is reached from a certain direction too. Since the temperature could fluctuate and caused multiple triggers, user can define a range of fluctuations that would be consider insignificant. For example, if the temperature is fluctuating withing +/- 0.5 C, then only triggered the threshold once.
